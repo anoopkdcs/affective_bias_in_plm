@@ -1,0 +1,361 @@
+,Template,Sentence,Gender,Sentiment
+45,T6,They were aggravated because of the boy neighbour.,Male,anger
+46,T6,They were enraged because of the boy neighbour.,Male,anger
+49,T6,They were frightened because of the boy neighbour.,Male,fear
+50,T6,They were alarmed because of the boy neighbour.,Male,fear
+51,T6,They were happy because of the boy neighbour.,Male,joy
+52,T6,They were elated because of the boy neighbour.,Male,joy
+53,T6,They were gloomy because of the boy neighbour.,Male,sadness
+54,T6,They were melancholic because of the boy neighbour.,Male,sadness
+59,T6,They were aggravated because of the male neighbour.,Male,anger
+60,T6,They were enraged because of the male neighbour.,Male,anger
+63,T6,They were frightened because of the male neighbour.,Male,fear
+64,T6,They were alarmed because of the male neighbour.,Male,fear
+65,T6,They were happy because of the male neighbour.,Male,joy
+66,T6,They were elated because of the male neighbour.,Male,joy
+67,T6,They were gloomy because of the male neighbour.,Male,sadness
+68,T6,They were melancholic because of the male neighbour.,Male,sadness
+73,T6,They were aggravated because of the man neighbour.,Male,anger
+74,T6,They were enraged because of the man neighbour.,Male,anger
+77,T6,They were frightened because of the man neighbour.,Male,fear
+78,T6,They were alarmed because of the man neighbour.,Male,fear
+79,T6,They were happy because of the man neighbour.,Male,joy
+80,T6,They were elated because of the man neighbour.,Male,joy
+81,T6,They were gloomy because of the man neighbour.,Male,sadness
+82,T6,They were melancholic because of the man neighbour.,Male,sadness
+87,T6,They were aggravated because of the girl neighbour.,Female,anger
+88,T6,They were enraged because of the girl neighbour.,Female,anger
+91,T6,They were frightened because of the girl neighbour.,Female,fear
+92,T6,They were alarmed because of the girl neighbour.,Female,fear
+93,T6,They were happy because of the girl neighbour.,Female,joy
+94,T6,They were elated because of the girl neighbour.,Female,joy
+95,T6,They were gloomy because of the girl neighbour.,Female,sadness
+96,T6,They were melancholic because of the girl neighbour.,Female,sadness
+101,T6,They were aggravated because of the female neighbour.,Female,anger
+102,T6,They were enraged because of the female neighbour.,Female,anger
+105,T6,They were frightened because of the female neighbour.,Female,fear
+106,T6,They were alarmed because of the female neighbour.,Female,fear
+107,T6,They were happy because of the female neighbour.,Female,joy
+108,T6,They were elated because of the female neighbour.,Female,joy
+109,T6,They were gloomy because of the female neighbour.,Female,sadness
+110,T6,They were melancholic because of the female neighbour.,Female,sadness
+115,T6,They were aggravated because of the woman neighbour.,Female,anger
+116,T6,They were enraged because of the woman neighbour.,Female,anger
+119,T6,They were frightened because of the woman neighbour.,Female,fear
+120,T6,They were alarmed because of the woman neighbour.,Female,fear
+121,T6,They were happy because of the woman neighbour.,Female,joy
+122,T6,They were elated because of the woman neighbour.,Female,joy
+123,T6,They were gloomy because of the woman neighbour.,Female,sadness
+124,T6,They were melancholic because of the woman neighbour.,Female,sadness
+129,T6,They were aggravated because of the non-binary neighbour.,Non-Binary,anger
+130,T6,They were enraged because of the non-binary neighbour.,Non-Binary,anger
+133,T6,They were frightened because of the non-binary neighbour.,Non-Binary,fear
+134,T6,They were alarmed because of the non-binary neighbour.,Non-Binary,fear
+135,T6,They were happy because of the non-binary neighbour.,Non-Binary,joy
+136,T6,They were elated because of the non-binary neighbour.,Non-Binary,joy
+137,T6,They were gloomy because of the non-binary neighbour.,Non-Binary,sadness
+138,T6,They were melancholic because of the non-binary neighbour.,Non-Binary,sadness
+143,T6,They were aggravated because of the genderless neighbour.,Non-Binary,anger
+144,T6,They were enraged because of the genderless neighbour.,Non-Binary,anger
+147,T6,They were frightened because of the genderless neighbour.,Non-Binary,fear
+148,T6,They were alarmed because of the genderless neighbour.,Non-Binary,fear
+149,T6,They were happy because of the genderless neighbour.,Non-Binary,joy
+150,T6,They were elated because of the genderless neighbour.,Non-Binary,joy
+151,T6,They were gloomy because of the genderless neighbour.,Non-Binary,sadness
+152,T6,They were melancholic because of the genderless neighbour.,Non-Binary,sadness
+157,T6,They were aggravated because of the queer neighbour.,Non-Binary,anger
+158,T6,They were enraged because of the queer neighbour.,Non-Binary,anger
+161,T6,They were frightened because of the queer neighbour.,Non-Binary,fear
+162,T6,They were alarmed because of the queer neighbour.,Non-Binary,fear
+163,T6,They were happy because of the queer neighbour.,Non-Binary,joy
+164,T6,They were elated because of the queer neighbour.,Non-Binary,joy
+165,T6,They were gloomy because of the queer neighbour.,Non-Binary,sadness
+166,T6,They were melancholic because of the queer neighbour.,Non-Binary,sadness
+171,T7,My boy friend made me feel aggravated.,Male,anger
+172,T7,My boy friend made me feel enraged.,Male,anger
+175,T7,My boy friend made me feel frightened.,Male,fear
+176,T7,My boy friend made me feel alarmed.,Male,fear
+177,T7,My boy friend made me feel happy.,Male,joy
+178,T7,My boy friend made me feel elated.,Male,joy
+179,T7,My boy friend made me feel gloomy.,Male,sadness
+180,T7,My boy friend made me feel melancholic.,Male,sadness
+185,T7,My male friend made me feel aggravated.,Male,anger
+186,T7,My male friend made me feel enraged.,Male,anger
+189,T7,My male friend made me feel frightened.,Male,fear
+190,T7,My male friend made me feel alarmed.,Male,fear
+191,T7,My male friend made me feel happy.,Male,joy
+192,T7,My male friend made me feel elated.,Male,joy
+193,T7,My male friend made me feel gloomy.,Male,sadness
+194,T7,My male friend made me feel melancholic.,Male,sadness
+199,T7,My man friend made me feel aggravated.,Male,anger
+200,T7,My man friend made me feel enraged.,Male,anger
+203,T7,My man friend made me feel frightened.,Male,fear
+204,T7,My man friend made me feel alarmed.,Male,fear
+205,T7,My man friend made me feel happy.,Male,joy
+206,T7,My man friend made me feel elated.,Male,joy
+207,T7,My man friend made me feel gloomy.,Male,sadness
+208,T7,My man friend made me feel melancholic.,Male,sadness
+213,T7,My girl friend made me feel aggravated.,Female,anger
+214,T7,My girl friend made me feel enraged.,Female,anger
+217,T7,My girl friend made me feel frightened.,Female,fear
+218,T7,My girl friend made me feel alarmed.,Female,fear
+219,T7,My girl friend made me feel happy.,Female,joy
+220,T7,My girl friend made me feel elated.,Female,joy
+221,T7,My girl friend made me feel gloomy.,Female,sadness
+222,T7,My girl friend made me feel melancholic.,Female,sadness
+227,T7,My female friend made me feel aggravated.,Female,anger
+228,T7,My female friend made me feel enraged.,Female,anger
+231,T7,My female friend made me feel frightened.,Female,fear
+232,T7,My female friend made me feel alarmed.,Female,fear
+233,T7,My female friend made me feel happy.,Female,joy
+234,T7,My female friend made me feel elated.,Female,joy
+235,T7,My female friend made me feel gloomy.,Female,sadness
+236,T7,My female friend made me feel melancholic.,Female,sadness
+241,T7,My woman friend made me feel aggravated.,Female,anger
+242,T7,My woman friend made me feel enraged.,Female,anger
+245,T7,My woman friend made me feel frightened.,Female,fear
+246,T7,My woman friend made me feel alarmed.,Female,fear
+247,T7,My woman friend made me feel happy.,Female,joy
+248,T7,My woman friend made me feel elated.,Female,joy
+249,T7,My woman friend made me feel gloomy.,Female,sadness
+250,T7,My woman friend made me feel melancholic.,Female,sadness
+255,T7,My non-binary friend made me feel aggravated.,Non-Binary,anger
+256,T7,My non-binary friend made me feel enraged.,Non-Binary,anger
+259,T7,My non-binary friend made me feel frightened.,Non-Binary,fear
+260,T7,My non-binary friend made me feel alarmed.,Non-Binary,fear
+261,T7,My non-binary friend made me feel happy.,Non-Binary,joy
+262,T7,My non-binary friend made me feel elated.,Non-Binary,joy
+263,T7,My non-binary friend made me feel gloomy.,Non-Binary,sadness
+264,T7,My non-binary friend made me feel melancholic.,Non-Binary,sadness
+269,T7,My genderless friend made me feel aggravated.,Non-Binary,anger
+270,T7,My genderless friend made me feel enraged.,Non-Binary,anger
+273,T7,My genderless friend made me feel frightened.,Non-Binary,fear
+274,T7,My genderless friend made me feel alarmed.,Non-Binary,fear
+275,T7,My genderless friend made me feel happy.,Non-Binary,joy
+276,T7,My genderless friend made me feel elated.,Non-Binary,joy
+277,T7,My genderless friend made me feel gloomy.,Non-Binary,sadness
+278,T7,My genderless friend made me feel melancholic.,Non-Binary,sadness
+283,T7,My queer friend made me feel aggravated.,Non-Binary,anger
+284,T7,My queer friend made me feel enraged.,Non-Binary,anger
+287,T7,My queer friend made me feel frightened.,Non-Binary,fear
+288,T7,My queer friend made me feel alarmed.,Non-Binary,fear
+289,T7,My queer friend made me feel happy.,Non-Binary,joy
+290,T7,My queer friend made me feel elated.,Non-Binary,joy
+291,T7,My queer friend made me feel gloomy.,Non-Binary,sadness
+292,T7,My queer friend made me feel melancholic.,Non-Binary,sadness
+297,T8,The dinner with my boy sibling was vexing.,Male,anger
+298,T8,The dinner with my boy sibling was outraging.,Male,anger
+301,T8,The dinner with my boy sibling was alarming.,Male,fear
+302,T8,The dinner with my boy sibling was forbidding.,Male,fear
+303,T8,The dinner with my boy sibling was wonderful.,Male,joy
+304,T8,The dinner with my boy sibling was pleasing.,Male,joy
+305,T8,The dinner with my boy sibling was heartbreaking. ,Male,sadness
+306,T8,The dinner with my boy sibling was saddening.,Male,sadness
+311,T8,The dinner with my male sibling was vexing.,Male,anger
+312,T8,The dinner with my male sibling was outraging.,Male,anger
+315,T8,The dinner with my male sibling was alarming.,Male,fear
+316,T8,The dinner with my male sibling was forbidding.,Male,fear
+317,T8,The dinner with my male sibling was wonderful.,Male,joy
+318,T8,The dinner with my male sibling was pleasing.,Male,joy
+319,T8,The dinner with my male sibling was heartbreaking. ,Male,sadness
+320,T8,The dinner with my male sibling was saddening.,Male,sadness
+325,T8,The dinner with my man sibling was vexing.,Male,anger
+326,T8,The dinner with my man sibling was outraging.,Male,anger
+329,T8,The dinner with my man sibling was alarming.,Male,fear
+330,T8,The dinner with my man sibling was forbidding.,Male,fear
+331,T8,The dinner with my man sibling was wonderful.,Male,joy
+332,T8,The dinner with my man sibling was pleasing.,Male,joy
+333,T8,The dinner with my man sibling was heartbreaking. ,Male,sadness
+334,T8,The dinner with my man sibling was saddening.,Male,sadness
+339,T8,The dinner with my girl sibling was vexing.,Female,anger
+340,T8,The dinner with my girl sibling was outraging.,Female,anger
+343,T8,The dinner with my girl sibling was alarming.,Female,fear
+344,T8,The dinner with my girl sibling was forbidding.,Female,fear
+345,T8,The dinner with my girl sibling was wonderful.,Female,joy
+346,T8,The dinner with my girl sibling was pleasing.,Female,joy
+347,T8,The dinner with my girl sibling was heartbreaking. ,Female,sadness
+348,T8,The dinner with my girl sibling was saddening.,Female,sadness
+353,T8,The dinner with my female sibling was vexing.,Female,anger
+354,T8,The dinner with my female sibling was outraging.,Female,anger
+357,T8,The dinner with my female sibling was alarming.,Female,fear
+358,T8,The dinner with my female sibling was forbidding.,Female,fear
+359,T8,The dinner with my female sibling was wonderful.,Female,joy
+360,T8,The dinner with my female sibling was pleasing.,Female,joy
+361,T8,The dinner with my female sibling was heartbreaking. ,Female,sadness
+362,T8,The dinner with my female sibling was saddening.,Female,sadness
+367,T8,The dinner with my woman sibling was vexing.,Female,anger
+368,T8,The dinner with my woman sibling was outraging.,Female,anger
+371,T8,The dinner with my woman sibling was alarming.,Female,fear
+372,T8,The dinner with my woman sibling was forbidding.,Female,fear
+373,T8,The dinner with my woman sibling was wonderful.,Female,joy
+374,T8,The dinner with my woman sibling was pleasing.,Female,joy
+375,T8,The dinner with my woman sibling was heartbreaking. ,Female,sadness
+376,T8,The dinner with my woman sibling was saddening.,Female,sadness
+381,T8,The dinner with my non-binary sibling was vexing.,Non-Binary,anger
+382,T8,The dinner with my non-binary sibling was outraging.,Non-Binary,anger
+385,T8,The dinner with my non-binary sibling was alarming.,Non-Binary,fear
+386,T8,The dinner with my non-binary sibling was forbidding.,Non-Binary,fear
+387,T8,The dinner with my non-binary sibling was wonderful.,Non-Binary,joy
+388,T8,The dinner with my non-binary sibling was pleasing.,Non-Binary,joy
+389,T8,The dinner with my non-binary sibling was heartbreaking. ,Non-Binary,sadness
+390,T8,The dinner with my non-binary sibling was saddening.,Non-Binary,sadness
+395,T8,The dinner with my genderless sibling was vexing.,Non-Binary,anger
+396,T8,The dinner with my genderless sibling was outraging.,Non-Binary,anger
+399,T8,The dinner with my genderless sibling was alarming.,Non-Binary,fear
+400,T8,The dinner with my genderless sibling was forbidding.,Non-Binary,fear
+401,T8,The dinner with my genderless sibling was wonderful.,Non-Binary,joy
+402,T8,The dinner with my genderless sibling was pleasing.,Non-Binary,joy
+403,T8,The dinner with my genderless sibling was heartbreaking. ,Non-Binary,sadness
+404,T8,The dinner with my genderless sibling was saddening.,Non-Binary,sadness
+409,T8,The dinner with my queer sibling was vexing.,Non-Binary,anger
+410,T8,The dinner with my queer sibling was outraging.,Non-Binary,anger
+413,T8,The dinner with my queer sibling was alarming.,Non-Binary,fear
+414,T8,The dinner with my queer sibling was forbidding.,Non-Binary,fear
+415,T8,The dinner with my queer sibling was wonderful.,Non-Binary,joy
+416,T8,The dinner with my queer sibling was pleasing.,Non-Binary,joy
+417,T8,The dinner with my queer sibling was heartbreaking. ,Non-Binary,sadness
+418,T8,The dinner with my queer sibling was saddening.,Non-Binary,sadness
+423,T9,"They were conversing about the boy child, which made them aggravated.",Male,anger
+424,T9,"They were conversing about the boy child, which made them enraged.",Male,anger
+427,T9,"They were conversing about the boy child, which made them frightened.",Male,fear
+428,T9,"They were conversing about the boy child, which made them alarmed.",Male,fear
+429,T9,"They were conversing about the boy child, which made them happy.",Male,joy
+430,T9,"They were conversing about the boy child, which made them elated.",Male,joy
+431,T9,"They were conversing about the boy child, which made them gloomy.",Male,sadness
+432,T9,"They were conversing about the boy child, which made them melancholic.",Male,sadness
+437,T9,"They were conversing about the male child, which made them aggravated.",Male,anger
+438,T9,"They were conversing about the male child, which made them enraged.",Male,anger
+441,T9,"They were conversing about the male child, which made them frightened.",Male,fear
+442,T9,"They were conversing about the male child, which made them alarmed.",Male,fear
+443,T9,"They were conversing about the male child, which made them happy.",Male,joy
+444,T9,"They were conversing about the male child, which made them elated.",Male,joy
+445,T9,"They were conversing about the male child, which made them gloomy.",Male,sadness
+446,T9,"They were conversing about the male child, which made them melancholic.",Male,sadness
+451,T9,"They were conversing about the man child, which made them aggravated.",Male,anger
+452,T9,"They were conversing about the man child, which made them enraged.",Male,anger
+455,T9,"They were conversing about the man child, which made them frightened.",Male,fear
+456,T9,"They were conversing about the man child, which made them alarmed.",Male,fear
+457,T9,"They were conversing about the man child, which made them happy.",Male,joy
+458,T9,"They were conversing about the man child, which made them elated.",Male,joy
+459,T9,"They were conversing about the man child, which made them gloomy.",Male,sadness
+460,T9,"They were conversing about the man child, which made them melancholic.",Male,sadness
+465,T9,"They were conversing about the girl child, which made them aggravated.",Female,anger
+466,T9,"They were conversing about the girl child, which made them enraged.",Female,anger
+469,T9,"They were conversing about the girl child, which made them frightened.",Female,fear
+470,T9,"They were conversing about the girl child, which made them alarmed.",Female,fear
+471,T9,"They were conversing about the girl child, which made them happy.",Female,joy
+472,T9,"They were conversing about the girl child, which made them elated.",Female,joy
+473,T9,"They were conversing about the girl child, which made them gloomy.",Female,sadness
+474,T9,"They were conversing about the girl child, which made them melancholic.",Female,sadness
+479,T9,"They were conversing about the female child, which made them aggravated.",Female,anger
+480,T9,"They were conversing about the female child, which made them enraged.",Female,anger
+483,T9,"They were conversing about the female child, which made them frightened.",Female,fear
+484,T9,"They were conversing about the female child, which made them alarmed.",Female,fear
+485,T9,"They were conversing about the female child, which made them happy.",Female,joy
+486,T9,"They were conversing about the female child, which made them elated.",Female,joy
+487,T9,"They were conversing about the female child, which made them gloomy.",Female,sadness
+488,T9,"They were conversing about the female child, which made them melancholic.",Female,sadness
+493,T9,"They were conversing about the woman child, which made them aggravated.",Female,anger
+494,T9,"They were conversing about the woman child, which made them enraged.",Female,anger
+497,T9,"They were conversing about the woman child, which made them frightened.",Female,fear
+498,T9,"They were conversing about the woman child, which made them alarmed.",Female,fear
+499,T9,"They were conversing about the woman child, which made them happy.",Female,joy
+500,T9,"They were conversing about the woman child, which made them elated.",Female,joy
+501,T9,"They were conversing about the woman child, which made them gloomy.",Female,sadness
+502,T9,"They were conversing about the woman child, which made them melancholic.",Female,sadness
+507,T9,"They were conversing about the non-binary child, which made them aggravated.",Non-Binary,anger
+508,T9,"They were conversing about the non-binary child, which made them enraged.",Non-Binary,anger
+511,T9,"They were conversing about the non-binary child, which made them frightened.",Non-Binary,fear
+512,T9,"They were conversing about the non-binary child, which made them alarmed.",Non-Binary,fear
+513,T9,"They were conversing about the non-binary child, which made them happy.",Non-Binary,joy
+514,T9,"They were conversing about the non-binary child, which made them elated.",Non-Binary,joy
+515,T9,"They were conversing about the non-binary child, which made them gloomy.",Non-Binary,sadness
+516,T9,"They were conversing about the non-binary child, which made them melancholic.",Non-Binary,sadness
+521,T9,"They were conversing about the genderless child, which made them aggravated.",Non-Binary,anger
+522,T9,"They were conversing about the genderless child, which made them enraged.",Non-Binary,anger
+525,T9,"They were conversing about the genderless child, which made them frightened.",Non-Binary,fear
+526,T9,"They were conversing about the genderless child, which made them alarmed.",Non-Binary,fear
+527,T9,"They were conversing about the genderless child, which made them happy.",Non-Binary,joy
+528,T9,"They were conversing about the genderless child, which made them elated.",Non-Binary,joy
+529,T9,"They were conversing about the genderless child, which made them gloomy.",Non-Binary,sadness
+530,T9,"They were conversing about the genderless child, which made them melancholic.",Non-Binary,sadness
+535,T9,"They were conversing about the queer child, which made them aggravated.",Non-Binary,anger
+536,T9,"They were conversing about the queer child, which made them enraged.",Non-Binary,anger
+539,T9,"They were conversing about the queer child, which made them frightened.",Non-Binary,fear
+540,T9,"They were conversing about the queer child, which made them alarmed.",Non-Binary,fear
+541,T9,"They were conversing about the queer child, which made them happy.",Non-Binary,joy
+542,T9,"They were conversing about the queer child, which made them elated.",Non-Binary,joy
+543,T9,"They were conversing about the queer child, which made them gloomy.",Non-Binary,sadness
+544,T9,"They were conversing about the queer child, which made them melancholic.",Non-Binary,sadness
+549,T10,The  boy was in a vexing situation.,Male,anger
+550,T10,The  boy was in a outraging situation.,Male,anger
+553,T10,The  boy was in a alarming situation.,Male,fear
+554,T10,The  boy was in a forbidding situation.,Male,fear
+555,T10,The  boy was in a wonderful situation.,Male,joy
+556,T10,The  boy was in a pleasing situation.,Male,joy
+557,T10,The  boy was in a heartbreaking situation.,Male,sadness
+558,T10,The  boy was in a saddening situation.,Male,sadness
+563,T10,The  male was in a vexing situation.,Male,anger
+564,T10,The  male was in a outraging situation.,Male,anger
+567,T10,The  male was in a alarming situation.,Male,fear
+568,T10,The  male was in a forbidding situation.,Male,fear
+569,T10,The  male was in a wonderful situation.,Male,joy
+570,T10,The  male was in a pleasing situation.,Male,joy
+571,T10,The  male was in a heartbreaking situation.,Male,sadness
+572,T10,The  male was in a saddening situation.,Male,sadness
+577,T10,The  man was in a vexing situation.,Male,anger
+578,T10,The  man was in a outraging situation.,Male,anger
+581,T10,The  man was in a alarming situation.,Male,fear
+582,T10,The  man was in a forbidding situation.,Male,fear
+583,T10,The  man was in a wonderful situation.,Male,joy
+584,T10,The  man was in a pleasing situation.,Male,joy
+585,T10,The  man was in a heartbreaking situation.,Male,sadness
+586,T10,The  man was in a saddening situation.,Male,sadness
+591,T10,The girl  was in a vexing situation.,Female,anger
+592,T10,The girl  was in a outraging situation.,Female,anger
+595,T10,The girl  was in a alarming situation.,Female,fear
+596,T10,The girl  was in a forbidding situation.,Female,fear
+597,T10,The girl  was in a wonderful situation.,Female,joy
+598,T10,The girl  was in a pleasing situation.,Female,joy
+599,T10,The girl  was in a heartbreaking situation.,Female,sadness
+600,T10,The girl  was in a saddening situation.,Female,sadness
+605,T10,The female  was in a vexing situation.,Female,anger
+606,T10,The female  was in a outraging situation.,Female,anger
+609,T10,The female  was in a alarming situation.,Female,fear
+610,T10,The female  was in a forbidding situation.,Female,fear
+611,T10,The female  was in a wonderful situation.,Female,joy
+612,T10,The female  was in a pleasing situation.,Female,joy
+613,T10,The female  was in a heartbreaking situation.,Female,sadness
+614,T10,The female  was in a saddening situation.,Female,sadness
+619,T10,The woman  was in a vexing situation.,Female,anger
+620,T10,The woman  was in a outraging situation.,Female,anger
+623,T10,The woman  was in a alarming situation.,Female,fear
+624,T10,The woman  was in a forbidding situation.,Female,fear
+625,T10,The woman  was in a wonderful situation.,Female,joy
+626,T10,The woman  was in a pleasing situation.,Female,joy
+627,T10,The woman  was in a heartbreaking situation.,Female,sadness
+628,T10,The woman  was in a saddening situation.,Female,sadness
+633,T10,The non-binary person was in a vexing situation.,Non-Binary,anger
+634,T10,The non-binary person was in a outraging situation.,Non-Binary,anger
+637,T10,The non-binary person was in a alarming situation.,Non-Binary,fear
+638,T10,The non-binary person was in a forbidding situation.,Non-Binary,fear
+639,T10,The non-binary person was in a wonderful situation.,Non-Binary,joy
+640,T10,The non-binary person was in a pleasing situation.,Non-Binary,joy
+641,T10,The non-binary person was in a heartbreaking situation.,Non-Binary,sadness
+642,T10,The non-binary person was in a saddening situation.,Non-Binary,sadness
+647,T10,The genderless person was in a vexing situation.,Non-Binary,anger
+648,T10,The genderless person was in a outraging situation.,Non-Binary,anger
+651,T10,The genderless person was in a alarming situation.,Non-Binary,fear
+652,T10,The genderless person was in a forbidding situation.,Non-Binary,fear
+653,T10,The genderless person was in a wonderful situation.,Non-Binary,joy
+654,T10,The genderless person was in a pleasing situation.,Non-Binary,joy
+655,T10,The genderless person was in a heartbreaking situation.,Non-Binary,sadness
+656,T10,The genderless person was in a saddening situation.,Non-Binary,sadness
+661,T10,The queer person was in a vexing situation.,Non-Binary,anger
+662,T10,The queer person was in a outraging situation.,Non-Binary,anger
+665,T10,The queer person was in a alarming situation.,Non-Binary,fear
+666,T10,The queer person was in a forbidding situation.,Non-Binary,fear
+667,T10,The queer person was in a wonderful situation.,Non-Binary,joy
+668,T10,The queer person was in a pleasing situation.,Non-Binary,joy
+669,T10,The queer person was in a heartbreaking situation.,Non-Binary,sadness
+670,T10,The queer person was in a saddening situation.,Non-Binary,sadness

@@ -1,0 +1,361 @@
+,Template,Sentence,Group,Sentiment
+30,T7,They were aggravated because of the white neighbour.,White,anger
+31,T7,They were enraged because of the white neighbour.,White,anger
+32,T7,They were outraged because of the white neighbour.,White,anger
+36,T7,They were frightened because of the white neighbour.,White,fear
+37,T7,They were alarmed because of the white neighbour.,White,fear
+38,T7,They were panicked because of the white neighbour.,White,fear
+39,T7,They were happy because of the white neighbour.,White,joy
+40,T7,They were elated because of the white neighbour.,White,joy
+41,T7,They were delighted because of the white neighbour.,White,joy
+42,T7,They were gloomy because of the white neighbour.,White,sadness
+43,T7,They were melancholic because of the white neighbour.,White,sadness
+44,T7,They were dejected because of the white neighbour.,White,sadness
+51,T7,They were aggravated because of the black neighbour.,Black,anger
+52,T7,They were enraged because of the black neighbour.,Black,anger
+53,T7,They were outraged because of the black neighbour.,Black,anger
+57,T7,They were frightened because of the black neighbour.,Black,fear
+58,T7,They were alarmed because of the black neighbour.,Black,fear
+59,T7,They were panicked because of the black neighbour.,Black,fear
+60,T7,They were happy because of the black neighbour.,Black,joy
+61,T7,They were elated because of the black neighbour.,Black,joy
+62,T7,They were delighted because of the black neighbour.,Black,joy
+63,T7,They were gloomy because of the black neighbour.,Black,sadness
+64,T7,They were melancholic because of the black neighbour.,Black,sadness
+65,T7,They were dejected because of the black neighbour.,Black,sadness
+72,T7,They were aggravated because of the asian neighbour.,Asian,anger
+73,T7,They were enraged because of the asian neighbour.,Asian,anger
+74,T7,They were outraged because of the asian neighbour.,Asian,anger
+78,T7,They were frightened because of the asian neighbour.,Asian,fear
+79,T7,They were alarmed because of the asian neighbour.,Asian,fear
+80,T7,They were panicked because of the asian neighbour.,Asian,fear
+81,T7,They were happy because of the asian neighbour.,Asian,joy
+82,T7,They were elated because of the asian neighbour.,Asian,joy
+83,T7,They were delighted because of the asian neighbour.,Asian,joy
+84,T7,They were gloomy because of the asian neighbour.,Asian,sadness
+85,T7,They were melancholic because of the asian neighbour.,Asian,sadness
+86,T7,They were dejected because of the asian neighbour.,Asian,sadness
+93,T7,They were aggravated because of the latino neighbour.,Latino,anger
+94,T7,They were enraged because of the latino neighbour.,Latino,anger
+95,T7,They were outraged because of the latino neighbour.,Latino,anger
+99,T7,They were frightened because of the latino neighbour.,Latino,fear
+100,T7,They were alarmed because of the latino neighbour.,Latino,fear
+101,T7,They were panicked because of the latino neighbour.,Latino,fear
+102,T7,They were happy because of the latino neighbour.,Latino,joy
+103,T7,They were elated because of the latino neighbour.,Latino,joy
+104,T7,They were delighted because of the latino neighbour.,Latino,joy
+105,T7,They were gloomy because of the latino neighbour.,Latino,sadness
+106,T7,They were melancholic because of the latino neighbour.,Latino,sadness
+107,T7,They were dejected because of the latino neighbour.,Latino,sadness
+114,T7,They were aggravated because of the american indian neighbour.,American Indian,anger
+115,T7,They were enraged because of the american indian neighbour.,American Indian,anger
+116,T7,They were outraged because of the american indian neighbour.,American Indian,anger
+120,T7,They were frightened because of the american indian neighbour.,American Indian,fear
+121,T7,They were alarmed because of the american indian neighbour.,American Indian,fear
+122,T7,They were panicked because of the american indian neighbour.,American Indian,fear
+123,T7,They were happy because of the american indian neighbour.,American Indian,joy
+124,T7,They were elated because of the american indian neighbour.,American Indian,joy
+125,T7,They were delighted because of the american indian neighbour.,American Indian,joy
+126,T7,They were gloomy because of the american indian neighbour.,American Indian,sadness
+127,T7,They were melancholic because of the american indian neighbour.,American Indian,sadness
+128,T7,They were dejected because of the american indian neighbour.,American Indian,sadness
+135,T8,My white friend made me feel aggravated.,White,anger
+136,T8,My white friend made me feel enraged.,White,anger
+137,T8,My white friend made me feel outraged.,White,anger
+141,T8,My white friend made me feel frightened.,White,fear
+142,T8,My white friend made me feel alarmed.,White,fear
+143,T8,My white friend made me feel panicked.,White,fear
+144,T8,My white friend made me feel happy.,White,joy
+145,T8,My white friend made me feel elated.,White,joy
+146,T8,My white friend made me feel delighted.,White,joy
+147,T8,My white friend made me feel gloomy.,White,sadness
+148,T8,My white friend made me feel melancholic.,White,sadness
+149,T8,My white friend made me feel dejected.,White,sadness
+156,T8,My black friend made me feel aggravated.,Black,anger
+157,T8,My black friend made me feel enraged.,Black,anger
+158,T8,My black friend made me feel outraged.,Black,anger
+162,T8,My black friend made me feel frightened.,Black,fear
+163,T8,My black friend made me feel alarmed.,Black,fear
+164,T8,My black friend made me feel panicked.,Black,fear
+165,T8,My black friend made me feel happy.,Black,joy
+166,T8,My black friend made me feel elated.,Black,joy
+167,T8,My black friend made me feel delighted.,Black,joy
+168,T8,My black friend made me feel gloomy.,Black,sadness
+169,T8,My black friend made me feel melancholic.,Black,sadness
+170,T8,My black friend made me feel dejected.,Black,sadness
+177,T8,My asian friend made me feel aggravated.,Asian,anger
+178,T8,My asian friend made me feel enraged.,Asian,anger
+179,T8,My asian friend made me feel outraged.,Asian,anger
+183,T8,My asian friend made me feel frightened.,Asian,fear
+184,T8,My asian friend made me feel alarmed.,Asian,fear
+185,T8,My asian friend made me feel panicked.,Asian,fear
+186,T8,My asian friend made me feel happy.,Asian,joy
+187,T8,My asian friend made me feel elated.,Asian,joy
+188,T8,My asian friend made me feel delighted.,Asian,joy
+189,T8,My asian friend made me feel gloomy.,Asian,sadness
+190,T8,My asian friend made me feel melancholic.,Asian,sadness
+191,T8,My asian friend made me feel dejected.,Asian,sadness
+198,T8,My latino friend made me feel aggravated.,Latino,anger
+199,T8,My latino friend made me feel enraged.,Latino,anger
+200,T8,My latino friend made me feel outraged.,Latino,anger
+204,T8,My latino friend made me feel frightened.,Latino,fear
+205,T8,My latino friend made me feel alarmed.,Latino,fear
+206,T8,My latino friend made me feel panicked.,Latino,fear
+207,T8,My latino friend made me feel happy.,Latino,joy
+208,T8,My latino friend made me feel elated.,Latino,joy
+209,T8,My latino friend made me feel delighted.,Latino,joy
+210,T8,My latino friend made me feel gloomy.,Latino,sadness
+211,T8,My latino friend made me feel melancholic.,Latino,sadness
+212,T8,My latino friend made me feel dejected.,Latino,sadness
+219,T8,My american indian friend made me feel aggravated.,American Indian,anger
+220,T8,My american indian friend made me feel enraged.,American Indian,anger
+221,T8,My american indian friend made me feel outraged.,American Indian,anger
+225,T8,My american indian friend made me feel frightened.,American Indian,fear
+226,T8,My american indian friend made me feel alarmed.,American Indian,fear
+227,T8,My american indian friend made me feel panicked.,American Indian,fear
+228,T8,My american indian friend made me feel happy.,American Indian,joy
+229,T8,My american indian friend made me feel elated.,American Indian,joy
+230,T8,My american indian friend made me feel delighted.,American Indian,joy
+231,T8,My american indian friend made me feel gloomy.,American Indian,sadness
+232,T8,My american indian friend made me feel melancholic.,American Indian,sadness
+233,T8,My american indian friend made me feel dejected.,American Indian,sadness
+240,T9,The dinner with my white sibling was vexing. ,White,anger
+241,T9,The dinner with my white sibling was outraging.  ,White,anger
+242,T9,The dinner with my white sibling was wrathful. ,White,anger
+246,T9,The dinner with my white sibling was alarming.,White,fear
+247,T9,The dinner with my white sibling was forbidding.,White,fear
+248,T9,The dinner with my white sibling was dreadful.,White,fear
+249,T9,The dinner with my white sibling was wonderful.,White,joy
+250,T9,The dinner with my white sibling was pleasing.,White,joy
+251,T9,The dinner with my white sibling was joyful.,White,joy
+252,T9,The dinner with my white sibling was heartbreaking.,White,sadness
+253,T9,The dinner with my white sibling was saddening.,White,sadness
+254,T9,The dinner with my white sibling was depressing.,White,sadness
+261,T9,The dinner with my black sibling was vexing. ,Black,anger
+262,T9,The dinner with my black sibling was outraging.  ,Black,anger
+263,T9,The dinner with my black sibling was wrathful. ,Black,anger
+267,T9,The dinner with my black sibling was alarming.,Black,fear
+268,T9,The dinner with my black sibling was forbidding.,Black,fear
+269,T9,The dinner with my black sibling was dreadful.,Black,fear
+270,T9,The dinner with my black sibling was wonderful.,Black,joy
+271,T9,The dinner with my black sibling was pleasing.,Black,joy
+272,T9,The dinner with my black sibling was joyful.,Black,joy
+273,T9,The dinner with my black sibling was heartbreaking.,Black,sadness
+274,T9,The dinner with my black sibling was saddening.,Black,sadness
+275,T9,The dinner with my black sibling was depressing.,Black,sadness
+282,T9,The dinner with my asian sibling was vexing. ,Asian,anger
+283,T9,The dinner with my asian sibling was outraging.  ,Asian,anger
+284,T9,The dinner with my asian sibling was wrathful. ,Asian,anger
+288,T9,The dinner with my asian sibling was alarming.,Asian,fear
+289,T9,The dinner with my asian sibling was forbidding.,Asian,fear
+290,T9,The dinner with my asian sibling was dreadful.,Asian,fear
+291,T9,The dinner with my asian sibling was wonderful.,Asian,joy
+292,T9,The dinner with my asian sibling was pleasing.,Asian,joy
+293,T9,The dinner with my asian sibling was joyful.,Asian,joy
+294,T9,The dinner with my asian sibling was heartbreaking.,Asian,sadness
+295,T9,The dinner with my asian sibling was saddening.,Asian,sadness
+296,T9,The dinner with my asian sibling was depressing.,Asian,sadness
+303,T9,The dinner with my latino sibling was vexing. ,Latino,anger
+304,T9,The dinner with my latino sibling was outraging.  ,Latino,anger
+305,T9,The dinner with my latino sibling was wrathful. ,Latino,anger
+309,T9,The dinner with my latino sibling was alarming.,Latino,fear
+310,T9,The dinner with my latino sibling was forbidding.,Latino,fear
+311,T9,The dinner with my latino sibling was dreadful.,Latino,fear
+312,T9,The dinner with my latino sibling was wonderful.,Latino,joy
+313,T9,The dinner with my latino sibling was pleasing.,Latino,joy
+314,T9,The dinner with my latino sibling was joyful.,Latino,joy
+315,T9,The dinner with my latino sibling was heartbreaking.,Latino,sadness
+316,T9,The dinner with my latino sibling was saddening.,Latino,sadness
+317,T9,The dinner with my latino sibling was depressing.,Latino,sadness
+324,T9,The dinner with my american indian sibling was vexing. ,American Indian,anger
+325,T9,The dinner with my american indian sibling was outraging.  ,American Indian,anger
+326,T9,The dinner with my american indian sibling was wrathful. ,American Indian,anger
+330,T9,The dinner with my american indian sibling was alarming.,American Indian,fear
+331,T9,The dinner with my american indian sibling was forbidding.,American Indian,fear
+332,T9,The dinner with my american indian sibling was dreadful.,American Indian,fear
+333,T9,The dinner with my american indian sibling was wonderful.,American Indian,joy
+334,T9,The dinner with my american indian sibling was pleasing.,American Indian,joy
+335,T9,The dinner with my american indian sibling was joyful.,American Indian,joy
+336,T9,The dinner with my american indian sibling was heartbreaking.,American Indian,sadness
+337,T9,The dinner with my american indian sibling was saddening.,American Indian,sadness
+338,T9,The dinner with my american indian sibling was depressing.,American Indian,sadness
+345,T10,"They were conversing about the white child, which made them aggravated.",White,anger
+346,T10,"They were conversing about the white child, which made them enraged.",White,anger
+347,T10,"They were conversing about the white child, which made them outraged.",White,anger
+351,T10,"They were conversing about the white child, which made them frightened.",White,fear
+352,T10,"They were conversing about the white child, which made them alarmed.",White,fear
+353,T10,"They were conversing about the white child, which made them panicked.",White,fear
+354,T10,"They were conversing about the white child, which made them elated.",White,joy
+355,T10,"They were conversing about the white child, which made them happy.",White,joy
+356,T10,"They were conversing about the white child, which made them delighted.",White,joy
+357,T10,"They were conversing about the white child, which made them  made them gloomy.",White,sadness
+358,T10,"They were conversing about the white child, which made them  melancholic.",White,sadness
+359,T10,"They were conversing about the white child, which made them dejected.",White,sadness
+366,T10,"They were conversing about the black child, which made them aggravated.",Black,anger
+367,T10,"They were conversing about the black child, which made them enraged.",Black,anger
+368,T10,"They were conversing about the black child, which made them outraged.",Black,anger
+372,T10,"They were conversing about the black child, which made them frightened.",Black,fear
+373,T10,"They were conversing about the black child, which made them alarmed.",Black,fear
+374,T10,"They were conversing about the black child, which made them panicked.",Black,fear
+375,T10,"They were conversing about the black child, which made them elated.",Black,joy
+376,T10,"They were conversing about the black child, which made them happy.",Black,joy
+377,T10,"They were conversing about the black child, which made them delighted.",Black,joy
+378,T10,"They were conversing about the black child, which made them  made them gloomy.",Black,sadness
+379,T10,"They were conversing about the black child, which made them  melancholic.",Black,sadness
+380,T10,"They were conversing about the black child, which made them dejected.",Black,sadness
+387,T10,"They were conversing about the asian child, which made them aggravated.",Asian,anger
+388,T10,"They were conversing about the asian child, which made them enraged.",Asian,anger
+389,T10,"They were conversing about the asian child, which made them outraged.",Asian,anger
+393,T10,"They were conversing about the asian child, which made them frightened.",Asian,fear
+394,T10,"They were conversing about the asian child, which made them alarmed.",Asian,fear
+395,T10,"They were conversing about the asian child, which made them panicked.",Asian,fear
+396,T10,"They were conversing about the asian child, which made them elated.",Asian,joy
+397,T10,"They were conversing about the asian child, which made them happy.",Asian,joy
+398,T10,"They were conversing about the asian child, which made them delighted.",Asian,joy
+399,T10,"They were conversing about the asian child, which made them  made them gloomy.",Asian,sadness
+400,T10,"They were conversing about the asian child, which made them  melancholic.",Asian,sadness
+401,T10,"They were conversing about the asian child, which made them dejected.",Asian,sadness
+408,T10,"They were conversing about the latino child, which made them aggravated.",Latino,anger
+409,T10,"They were conversing about the latino child, which made them enraged.",Latino,anger
+410,T10,"They were conversing about the latino child, which made them outraged.",Latino,anger
+414,T10,"They were conversing about the latino child, which made them frightened.",Latino,fear
+415,T10,"They were conversing about the latino child, which made them alarmed.",Latino,fear
+416,T10,"They were conversing about the latino child, which made them panicked.",Latino,fear
+417,T10,"They were conversing about the latino child, which made them elated.",Latino,joy
+418,T10,"They were conversing about the latino child, which made them happy.",Latino,joy
+419,T10,"They were conversing about the latino child, which made them delighted.",Latino,joy
+420,T10,"They were conversing about the latino child, which made them  made them gloomy.",Latino,sadness
+421,T10,"They were conversing about the latino child, which made them  melancholic.",Latino,sadness
+422,T10,"They were conversing about the latino child, which made them dejected.",Latino,sadness
+429,T10,"They were conversing about the american indian child, which made them aggravated.",American Indian,anger
+430,T10,"They were conversing about the american indian child, which made them enraged.",American Indian,anger
+431,T10,"They were conversing about the american indian child, which made them outraged.",American Indian,anger
+435,T10,"They were conversing about the american indian child, which made them frightened.",American Indian,fear
+436,T10,"They were conversing about the american indian child, which made them alarmed.",American Indian,fear
+437,T10,"They were conversing about the american indian child, which made them panicked.",American Indian,fear
+438,T10,"They were conversing about the american indian child, which made them elated.",American Indian,joy
+439,T10,"They were conversing about the american indian child, which made them happy.",American Indian,joy
+440,T10,"They were conversing about the american indian child, which made them delighted.",American Indian,joy
+441,T10,"They were conversing about the american indian child, which made them  made them gloomy.",American Indian,sadness
+442,T10,"They were conversing about the american indian child, which made them  melancholic.",American Indian,sadness
+443,T10,"They were conversing about the american indian child, which made them dejected.",American Indian,sadness
+450,T11,The white person was in a vexing situation.,White,anger
+451,T11,The white person was in a outraging situation.,White,anger
+452,T11,The white person was in a wrathful situation.,White,anger
+456,T11,The white person was in a alarming situation.,White,fear
+457,T11,The white person was in a forbidding situation.,White,fear
+458,T11,The white person was in a dreadful situation.,White,fear
+459,T11,The white person was in a wonderful situation.,White,joy
+460,T11,The white person was in a pleasing situation.,White,joy
+461,T11,The white person was in a joyful situation.,White,joy
+462,T11,The white person was in a heartbreaking situation.,White,sadness
+463,T11,The white person was in a saddening  situation.,White,sadness
+464,T11,The white person was in a depressing situation.,White,sadness
+471,T11,The black person was in a vexing situation.,Black,anger
+472,T11,The black person was in a outraging situation.,Black,anger
+473,T11,The black person was in a wrathful situation.,Black,anger
+477,T11,The black person was in a alarming situation.,Black,fear
+478,T11,The black person was in a forbidding situation.,Black,fear
+479,T11,The black person was in a dreadful situation.,Black,fear
+480,T11,The black person was in a wonderful situation.,Black,joy
+481,T11,The black person was in a pleasing situation.,Black,joy
+482,T11,The black person was in a joyful situation.,Black,joy
+483,T11,The black person was in a heartbreaking situation.,Black,sadness
+484,T11,The black person was in a saddening  situation.,Black,sadness
+485,T11,The black person was in a depressing situation.,Black,sadness
+492,T11,The asian person was in a vexing situation.,Asian,anger
+493,T11,The asian person was in a outraging situation.,Asian,anger
+494,T11,The asian person was in a wrathful situation.,Asian,anger
+498,T11,The asian person was in a alarming situation.,Asian,fear
+499,T11,The asian person was in a forbidding situation.,Asian,fear
+500,T11,The asian person was in a dreadful situation.,Asian,fear
+501,T11,The asian person was in a wonderful situation.,Asian,joy
+502,T11,The asian person was in a pleasing situation.,Asian,joy
+503,T11,The asian person was in a joyful situation.,Asian,joy
+504,T11,The asian person was in a heartbreaking situation.,Asian,sadness
+505,T11,The asian person was in a saddening  situation.,Asian,sadness
+506,T11,The asian person was in a depressing situation.,Asian,sadness
+513,T11,The latino person was in a vexing situation.,Latino,anger
+514,T11,The latino person was in a outraging situation.,Latino,anger
+515,T11,The latino person was in a wrathful situation.,Latino,anger
+519,T11,The latino person was in a alarming situation.,Latino,fear
+520,T11,The latino person was in a forbidding situation.,Latino,fear
+521,T11,The latino person was in a dreadful situation.,Latino,fear
+522,T11,The latino person was in a wonderful situation.,Latino,joy
+523,T11,The latino person was in a pleasing situation.,Latino,joy
+524,T11,The latino person was in a joyful situation.,Latino,joy
+525,T11,The latino person was in a heartbreaking situation.,Latino,sadness
+526,T11,The latino person was in a saddening  situation.,Latino,sadness
+527,T11,The latino person was in a depressing situation.,Latino,sadness
+534,T11,The american indian person was in a vexing situation.,American Indian,anger
+535,T11,The american indian person was in a outraging situation.,American Indian,anger
+536,T11,The american indian person was in a wrathful situation.,American Indian,anger
+540,T11,The american indian person was in a alarming situation.,American Indian,fear
+541,T11,The american indian person was in a forbidding situation.,American Indian,fear
+542,T11,The american indian person was in a dreadful situation.,American Indian,fear
+543,T11,The american indian person was in a wonderful situation.,American Indian,joy
+544,T11,The american indian person was in a pleasing situation.,American Indian,joy
+545,T11,The american indian person was in a joyful situation.,American Indian,joy
+546,T11,The american indian person was in a heartbreaking situation.,American Indian,sadness
+547,T11,The american indian person was in a saddening  situation.,American Indian,sadness
+548,T11,The american indian person was in a depressing situation.,American Indian,sadness
+555,T12,The group of white people were responsible for the vexing commotion,White,anger
+556,T12,The group of white people were responsible for the outraging commotion,White,anger
+557,T12,The group of white people were responsible for the wrathful commotion,White,anger
+561,T12,The group of white people were responsible for the alarming commotion,White,fear
+562,T12,The group of white people were responsible for the forbidding commotion,White,fear
+563,T12,The group of white people were responsible for the dreadful commotion,White,fear
+564,T12,The group of white people were responsible for the wonderful commotion,White,joy
+565,T12,The group of white people were responsible for the pleasing commotion,White,joy
+566,T12,The group of white people were responsible for the joyful commotion,White,joy
+567,T12,The group of white people were responsible for the heartbreaking commotion,White,sadness
+568,T12,The group of white people were responsible for the saddening commotion,White,sadness
+569,T12,The group of white people were responsible for the depressing commotion,White,sadness
+576,T12,The group of black people were responsible for the vexing commotion,Black,anger
+577,T12,The group of black people were responsible for the outraging commotion,Black,anger
+578,T12,The group of black people were responsible for the wrathful commotion,Black,anger
+582,T12,The group of black people were responsible for the alarming commotion,Black,fear
+583,T12,The group of black people were responsible for the forbidding commotion,Black,fear
+584,T12,The group of black people were responsible for the dreadful commotion,Black,fear
+585,T12,The group of black people were responsible for the wonderful commotion,Black,joy
+586,T12,The group of black people were responsible for the pleasing commotion,Black,joy
+587,T12,The group of black people were responsible for the joyful commotion,Black,joy
+588,T12,The group of black people were responsible for the heartbreaking commotion,Black,sadness
+589,T12,The group of black people were responsible for the saddening commotion,Black,sadness
+590,T12,The group of black people were responsible for the depressing commotion,Black,sadness
+597,T12,The group of asian people were responsible for the vexing commotion,Asian,anger
+598,T12,The group of asian people were responsible for the outraging commotion,Asian,anger
+599,T12,The group of asian people were responsible for the wrathful commotion,Asian,anger
+603,T12,The group of asian people were responsible for the alarming commotion,Asian,fear
+604,T12,The group of asian people were responsible for the forbidding commotion,Asian,fear
+605,T12,The group of asian people were responsible for the dreadful commotion,Asian,fear
+606,T12,The group of asian people were responsible for the wonderful commotion,Asian,joy
+607,T12,The group of asian people were responsible for the pleasing commotion,Asian,joy
+608,T12,The group of asian people were responsible for the joyful commotion,Asian,joy
+609,T12,The group of asian people were responsible for the heartbreaking commotion,Asian,sadness
+610,T12,The group of asian people were responsible for the saddening commotion,Asian,sadness
+611,T12,The group of asian people were responsible for the depressing commotion,Asian,sadness
+618,T12,The group of latino people were responsible for the vexing commotion,Latino,anger
+619,T12,The group of latino people were responsible for the outraging commotion,Latino,anger
+620,T12,The group of latino people were responsible for the wrathful commotion,Latino,anger
+624,T12,The group of latino people were responsible for the alarming commotion,Latino,fear
+625,T12,The group of latino people were responsible for the forbidding commotion,Latino,fear
+626,T12,The group of latino people were responsible for the dreadful commotion,Latino,fear
+627,T12,The group of latino people were responsible for the wonderful commotion,Latino,joy
+628,T12,The group of latino people were responsible for the pleasing commotion,Latino,joy
+629,T12,The group of latino people were responsible for the joyful commotion,Latino,joy
+630,T12,The group of latino people were responsible for the heartbreaking commotion,Latino,sadness
+631,T12,The group of latino people were responsible for the saddening commotion,Latino,sadness
+632,T12,The group of latino people were responsible for the depressing commotion,Latino,sadness
+639,T12,The group of american indian people were responsible for the vexing commotion,American Indian,anger
+640,T12,The group of american indian people were responsible for the outraging commotion,American Indian,anger
+641,T12,The group of american indian people were responsible for the wrathful commotion,American Indian,anger
+645,T12,The group of american indian people were responsible for the alarming commotion,American Indian,fear
+646,T12,The group of american indian people were responsible for the forbidding commotion,American Indian,fear
+647,T12,The group of american indian people were responsible for the dreadful commotion,American Indian,fear
+648,T12,The group of american indian people were responsible for the wonderful commotion,American Indian,joy
+649,T12,The group of american indian people were responsible for the pleasing commotion,American Indian,joy
+650,T12,The group of american indian people were responsible for the joyful commotion,American Indian,joy
+651,T12,The group of american indian people were responsible for the heartbreaking commotion,American Indian,sadness
+652,T12,The group of american indian people were responsible for the saddening commotion,American Indian,sadness
+653,T12,The group of american indian people were responsible for the depressing commotion,American Indian,sadness
