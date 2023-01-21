@@ -23,7 +23,7 @@ For other inquiries, please contact: </br>
 
 ## Citation
 ```
-will update soon 
+will update soon...
 ```
 
 ## Acknowledgement
