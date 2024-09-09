@@ -1,7 +1,7 @@
 # Affevtive Bias in Large Pre-trained Language Models<br>
 <img src= 'images/architecture.png' style="max-width: 75%;"> 
 
-*Understanding Latent Affective Bias in Large Pre-trained Neural Language Models* </br>
+## Understanding Latent Affective Bias in Large Pre-trained Neural Language Models ## </br>
 Anoop K<sup>[1](#author1)</sup>, Deepak P.<sup>[2](#author2)</sup>, Sahely Bhadra<sup>[3](#author3)</sup>, Manjary P Gangan<sup>[1](#author1)</sup>, and Lajish V L<sup>[1](#author1)</sup> </br>
 <a name="author1"><sup>1</sup></a> Department of Computer Science, University, University of Calicut, Kerala, India. </br>
 <a name="author2"><sup>2</sup></a> School of Electronics, Electrical Engineering and Computer Science, Queen’s University Belfast, Northern Ireland, UK.</br>
