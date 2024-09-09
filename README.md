@@ -23,7 +23,17 @@ For other inquiries, please contact: </br>
 
 ## Citation
 ```
-will update soon...
+@article{KADAN2024100062,
+title = {Understanding latent affective bias in large pre-trained neural language models},
+journal = {Natural Language Processing Journal},
+volume = {7},
+pages = {100062},
+year = {2024},
+issn = {2949-7191},
+doi = {https://doi.org/10.1016/j.nlp.2024.100062},
+url = {https://www.sciencedirect.com/science/article/pii/S2949719124000104},
+author = {Anoop Kadan and Deepak P. and Sahely Bhadra and Manjary {P. Gangan} and Lajish V.L.},
+}
 ```
 
 ## Acknowledgement
