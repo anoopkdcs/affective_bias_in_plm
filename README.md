@@ -8,7 +8,7 @@ Anoop K<sup>[1](#author1)</sup>, Deepak P.<sup>[2](#author2)</sup>, Sahely Bhadr
 <a name="author3"><sup>3</sup></a> Department of Data Science, Indian Institute of Technology, Palakkad, India
 
 
-
+:memo: paper : https://www.sciencedirect.com/science/article/pii/S2949719124000104 </br>
 :memo: pre-print : https://arxiv.org/abs/2301.09003 </br>
 :earth_asia: Link : https://dcs.uoc.ac.in/cida/projects/ac/affective-bias.html
 
