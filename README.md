@@ -14,10 +14,10 @@ Anoop Kadan<sup>[1](#author1)</sup>, Deepak P.<sup>[2](#author2)</sup>, Sahely B
 **Abstract**:Groundbreaking inventions and highly significant performance improvements in deep learning based Natural Language Processing are witnessed through the development of transformer based large Pre-trained Language Models (PLMs). The wide availability of unlabeled data within human generated data deluge along with self-supervised learning strategy helps to accelerate the success of large PLMs in language generation, language understanding, etc. But at the same time, latent historical bias/unfairness in human minds towards a particular gender, race, etc., encoded unintentionally/intentionally into the corpora harms and questions the utility and efficacy of large PLMs in many real-world applications, particularly for the protected groups. In this paper, we present an extensive investigation towards understanding the existence of “Affective Bias” in large PLMs to unveil any biased association of emotions such as anger, fear, joy, etc., towards a particular gender, race or religion with respect to the downstream task of textual emotion detection. We conduct our exploration of affective bias from the very initial stage of corpus level affective bias analysis by searching for imbalanced distribution of affective words within a domain, in large scale corpora that are used to pre-train and fine-tune PLMs. Later, to quantify affective bias in model predictions, we perform an extensive set of class-based and intensity-based evaluations using  various bias evaluation corpora. Our results show the existence of statistically significant affective bias in the PLM based emotion detection systems, indicating biased association of certain emotions towards a particular gender, race, and religion.
 
 For other inquiries, please contact: </br>
-1. Anoop K, University of Calicut, Kerala, India. :email: anoopk_dcs@uoc.ac.in </br> 
+1. Anoop K, University of Calicut, Kerala, India. :email: anoopkadan23@gmail.com </br> 
 2. Deepak P., Queen’s University Belfast, Northern Ireland, UK. :email: deepaksp@acm.org </br>
 3. Sahely Bhadra, Indian Institute of Technology, Palakkad, India :email:  sahely@iitpkd.ac.in </br>
-4. Manjary P Gangan, University of Calicut, Kerala, India. :email: manjaryp_dcs@uoc.ac.in </br>
+4. Manjary P Gangan, University of Calicut, Kerala, India. :email: manjaryp@gmail.com </br>
 5. Lajish V. L., University of Calicut, Kerala, India. :email: lajish@uoc.ac.in
 
 ## Citation
